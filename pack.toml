@@ -1,0 +1,13 @@
+name = "IterumSMP Modpack"
+author = "Kaiden"
+version = "0.0.1a"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "705d8a0bb2a4da87ceb7269fbf735966b4fa432458ddb321ccbae7463d8c2e64"
+
+[versions]
+forge = "36.2.5"
+minecraft = "1.16.5"
